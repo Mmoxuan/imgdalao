@@ -31,13 +31,13 @@ $smfile.fileinput({
     },
     browseClass: "btn btn-success",
     // msgPlaceholder: "选择文件",
-    browseLabel: "选择图片或视频",
+    browseLabel: "选择文件进行上传",
     browseIcon: "<i class=\"fas fa-images\"></i> ",
     removeClass: "btn btn-danger",
     // removeLabel: "清除",
     uploadClass: "btn btn-info",
     // uploadLabel: "上传",
-    dropZoneTitle: "拖拽文件到这里<br>或将屏幕截图复制并粘贴到此处<br>支持多文件同时上传…",
+    dropZoneTitle: "拖拽文件进行上传...",
     //showPreview: false
 })
 
